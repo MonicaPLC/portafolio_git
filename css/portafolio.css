@@ -1,74 +1,25 @@
-*{
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+#datos {
+  background-color: #e6e6fa;
 }
 
+#header {
+  background-color: black;
+}
+
+#nombre {
+  color: white;
+  font-family: century gothic;
+  font-weight: bold;
+}
+
+#card {
+  margin-top: 20px;
+}
+
+#cv,
+#gh {
+  background-color: #e6e6fa;
+}
 
 body {
-
-
-	background: #D3D3D3;
 }
-
-
-
-li{
-display:  inline-block;
-
-}
-
-h1{
-	text-align: center;
-	font-family: "Tahoma";
-	padding: 30px;
-	color: #ffff;
-	background: #000000;
-
-}
-
-p{
-
-text-align: center;
-	font-family: "Tahoma";
-	color: #000000;
-	background-color: 
-
-
-}
-
-img{
-
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	padding: 40px;
-	border-radius: 100%;
-	
-
-}
-
-a{
-display: block;
-text-decoration: none;
-color: #ffff;
-font-family: "Tahoma";
-margin-left: 300px;
-margin-top: 100px;
-background-color: #0000;
-}
-
-ul{
-
-	background: #0000;
-}
-
-
-
-
-
-
-
-
-
-
